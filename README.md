@@ -15,3 +15,8 @@ as an SVG file.
 * An application that WHEN a user has entered input for all the prompts, THEN an SVG file is created named `logo.svg` AND the output text "Generated logo.svg" is printed in the command line.
 
 * Am application that WHEN a user opens the `logo.svg` file in a browser, THEN they are shown a 300x200 pixel image that matches the criteria I entered.
+
+
+
+## Walkthrough Video
+[Screencastify.] (https://watch.screencastify.com/v/GR6AM4rpVq4yWPRmXiWL)
